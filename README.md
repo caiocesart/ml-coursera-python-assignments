@@ -1,3 +1,5 @@
+## Minhas resoluções dos exercícios em Python do curso de Machine Learning do Andrew Ng.
+
 # [Coursera Machine Learning MOOC by Andrew Ng](https://www.coursera.org/learn/machine-learning) 
 # Python Programming Assignments
 
